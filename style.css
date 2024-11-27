@@ -37,6 +37,12 @@ img {
     font-weight: bold;
     animation: blink-color-change 1s infinite;
 }
+.good-luck-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #00796b; /* Teal */
+    margin-top: 1rem;
+}
 
 @keyframes blink-color-change {
     0% { color: #ff0000; } /* Red */
