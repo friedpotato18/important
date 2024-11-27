@@ -2,45 +2,22 @@ body {
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
     padding: 0;
-    background-color: #ffeb3b; /* Vibrant yellow */
+    background-color: #e0f7fa; /* Light cyan */
     color: #333;
 }
 header {
-    background-color: #ff5722; /* Vibrant orange */
+    background-color: #81d4fa; /* Light blue */
     color: #fff;
     padding: 1rem;
     text-align: center;
-}
-nav {
-    margin: 0;
-    padding: 0;
-    background-color: #009688; /* Vibrant teal */
-}
-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-}
-nav ul li {
-    margin: 0;
-}
-nav ul li a {
-    color: #fff;
-    padding: 1rem;
-    display: block;
-    text-decoration: none;
-}
-nav ul li a:hover {
-    background-color: #00796b; /* Darker teal */
 }
 main {
     padding: 2rem;
     text-align: center;
+    background-color: #b3e5fc; /* Lighter blue */
 }
 footer {
-    background-color: #ff5722; /* Vibrant orange */
+    background-color: #81d4fa; /* Light blue */
     color: #fff;
     text-align: center;
     padding: 1rem;
@@ -53,5 +30,5 @@ img {
     height: auto;
     display: block;
     margin: 2rem auto;
-    border: 5px solid #009688; /* Teal border */
+    border: 5px solid #4fc3f7; /* Blue border */
 }
